@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 asgiref==3.5.0
 Django==3.2
 djangorestframework==3.13.1
 pytz==2022.1
 sqlparse==0.4.2
+=======
+aiogram~=2.12
+environs~=8.0.0
+>>>>>>> 3a99bd4d66d47299493c44b52049ac925e47ebfb
